@@ -1,0 +1,5 @@
+[language-server.rust-analyzer.config]
+cfg.setTest = false
+cargo.allTargets = false
+check.allTargets = false
+
